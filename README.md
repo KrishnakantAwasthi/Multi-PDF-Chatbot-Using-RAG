@@ -55,8 +55,6 @@ The system uses **Google Gemini embeddings** to convert document chunks into vec
 8. **Generate an Answer:** The Groq-hosted LLM uses the retrieved context to generate a relevant response.
 9. **Display the Response:** Streamlit displays the generated answer to the user.
 
-10. ![Uploading image.png…]()
-
 
 ## 🏗️ System Architecture
 
