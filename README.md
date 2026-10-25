@@ -208,7 +208,7 @@ Access the project resources and reference materials here:
 
 **Krishnakant Awasthi**
 
-- GitHub: [Add your GitHub profile link](https://github.com/KrishnakantAwasthi)
+- GitHub: [Krishnakant Awasthi](https://github.com/KrishnakantAwasthi)
 - LinkedIn: [Krishnakant Awasthi](https://www.linkedin.com/in/krishnakantawasthi)
 
 ## ⭐ Support
